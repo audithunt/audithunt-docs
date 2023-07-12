@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Audit Hunt Documentation test',
+  title: 'Audit Hunt Documentation',
   tagline: 'Documentation for Audit Hunt platform',
   favicon: 'img/favicon.ico',
 
