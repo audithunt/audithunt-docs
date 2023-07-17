@@ -13,3 +13,6 @@ sidebar_position: 2
 4. **Audit Report Generation and NFT Minting**: Once the bounty distribution is complete, an audit report is automatically generated. The report contains a summary of the audit process, issues identified, solutions provided, and contributors involved. This report is then minted as an NFT and transferred to the project owner.
 
 5. **Platform Fee Processing**: The platform fee deducted from the bounty is used to buy back and burn HUNT tokens, contributing to the overall value of the HUNT ecosystem.
+
+
+Audit Hunt is designed to be user-friendly and effective, offering a unique solution to smart contract auditing and contributing to a more secure and robust blockchain landscape.
