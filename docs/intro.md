@@ -3,6 +3,6 @@ sidebar_position: 1
 slug: /
 ---
 
-# Audit Hunt
+# Welcome 👋
 
 Welcome to [Audit Hunt](https://audithunt.xyz/) documentation.
