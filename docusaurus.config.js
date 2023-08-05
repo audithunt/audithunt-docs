@@ -10,8 +10,8 @@ const config = {
   tagline: 'Documentation for Audit Hunt platform',
   favicon: 'img/favicon.ico',
 
-  url: 'https://github.com',
-  baseUrl: '/audithunt-docs/',
+  url: 'https://docs.audithunt.xyz',
+  baseUrl: '/',
 
   organizationName: 'audithunt',
   projectName: 'audithunt-docs',
