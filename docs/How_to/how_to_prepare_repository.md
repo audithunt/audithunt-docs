@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# How to preparing repository for Audit?
+# How to prepare repository for Audit?
 
 ## 1. Make Your Repository Public
 
