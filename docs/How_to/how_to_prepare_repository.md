@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # How to preparing repository for Audit?
 
-1. Make Your Repository Public
+## 1. Make Your Repository Public
 
 Audit Hunt relies on community-driven efforts, and auditors must be able to access and review your smart contract's source code.
 
@@ -14,7 +14,7 @@ Audit Hunt relies on community-driven efforts, and auditors must be able to acce
 - Click on **Change visibility**.
 Choose **Public** and follow the prompts to make your repository publicly accessible.
 
-2. Set Up the Audit Hunt Issue Template
+## 2. Set Up the Audit Hunt Issue Template
 
 Using a standardized issue template ensures that all audit submissions are consistent, making it easier for you to review and address them. Audit Hunt provides a template to ensure this consistency.
 
