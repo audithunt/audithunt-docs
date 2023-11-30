@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# Platform Fee Explanation
+# Platform Fee's
 
 The Audit Hunt platform charges a platform fee to support its operations and contribute to the value of its native token, the HUNT token. This fee is set at 5% of the total bounty placed by the project owner.
 
