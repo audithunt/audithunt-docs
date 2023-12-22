@@ -51,4 +51,7 @@ As a developer or auditor (referred to as "Hunter") on the Audit Hunt platform, 
  the template, submit the Issue on GitHub.
 - Participation: Engage in further discussions or clarifications on GitHub as needed. Your interaction and responsiveness can enhance the auditing process.
 
+## Example of a Submitted Issue
+For an example of a completed submission, refer to this [filed issue on GitHub](https://github.com/audithunt/issue-template/issues/1). This example will give you an idea of what a well-structured and comprehensive submission looks like.
+
 By following these steps, you can effectively contribute to a Hunt on the Audit Hunt platform, leveraging your expertise to enhance the security and quality of blockchain projects. Remember, your submissions are not just about identifying issues but also about contributing to a collaborative community of developers and auditors.
